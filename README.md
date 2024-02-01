@@ -11,3 +11,6 @@ Digital Inputs
 Analog Inputs with 0-10v
 relay outputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1boB9R4kPn05HQqUIyhiEUspnpdsfYS7r&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=17oJyPVPuka7rnwsA5B1Japy0LpA0XgZQ&usp=drive_fs
